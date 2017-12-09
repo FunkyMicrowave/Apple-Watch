@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Taktmælir fyrir apple watch
 
-You can use the [editor on GitHub](https://github.com/FunkyMicrowave/Apple-Watch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Afhverju?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Þetta er verkefnið mitt sem að fólst í því að forrita app fyrir apple watch.
+Mig hefur lengi langað að forrita eitthvað fyrir apple watch en var ekki viss hvað það yrði fyrr en fyrir stuttu þegar mig sárvantaði taktmæli.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hvað gerir það
 
-```markdown
-Syntax highlighted code block
+Appið felst í því að þú velur hraðan sem að þú vilt spila í og úrið titrar í takt, frekar titrar heldur en hlóð því hljóðið týnist í hávaðanum.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FunkyMicrowave/Apple-Watch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
