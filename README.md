@@ -3,6 +3,7 @@
 ## Afhverju?
 
 Þetta er verkefnið mitt sem að fólst í því að forrita app fyrir apple watch.
+
 Mig hefur lengi langað að forrita eitthvað fyrir apple watch en var ekki viss hvað það yrði fyrr en fyrir stuttu þegar mig sárvantaði taktmæli.
 
 
